@@ -1,0 +1,8 @@
+Requirements:
+
+install cv2
+install pytesseract
+install tesseract OCR
+install indian name generator
+Using IDE - PyCharm Professional
+Use Haarcascade classifier for detection of plates and tracking
